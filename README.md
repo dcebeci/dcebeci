@@ -10,8 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcebeci&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dcebeci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dcebeci08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dcebeci.com)    [![](https://visitcount.itsvg.in/api?id=dcebeci&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dcebeci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dcebeci08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.dcebeci.com)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12223285)   [![](https://visitcount.itsvg.in/api?id=dcebeci&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 
