@@ -2,7 +2,7 @@
 #### Computer Engineer
  I'm Doğukan, a front-end developer with a passion for crafting beautiful and functional web interfaces. Since December 2022, I've been actively working in the front-end development field, continuously improving my skills and staying updated with the latest industry trends.
 
-Skills: ANGULAR/ REACT / JS / HTML / SCSS / PYTHON / DJANGO / JAVA 
+Skills: ANGULAR/ TYPESCRIPT / JS / HTML / SCSS / PYTHON / DJANGO / JAVA / REACT
 
 - 📫 How to reach me: dc@dcebeci.com 
 
