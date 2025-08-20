@@ -1,6 +1,6 @@
 ### Hi there 👋, Doğukan Cebeci
 #### Computer Engineer
-AComputer Engineer with expertise in **Front-End Development**, complemented by practical experience in **Quality Assurance (QA)** and **Project Management**. I focus on building robust and user-friendly web applications, continuously refining my skills across the software development lifecycle.
+Computer Engineer with expertise in **Front-End Development**, complemented by practical experience in **Quality Assurance (QA)** and **Project Management**. I focus on building robust and user-friendly web applications, continuously refining my skills across the software development lifecycle.
 
 ---
 - 📫 How to reach me: cebecidogukan@gmail.com
