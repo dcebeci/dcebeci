@@ -7,7 +7,7 @@ Computer Engineer with expertise in **Front-End Development**, complemented by p
 - ---
 
 ### Currently:
-* **🔭 I’m currently focused on:** Enhancing my skills in full-stack development patterns. I'm also actively exploring **3D modeling with Blender & Zbrush**.
+* **🔭 I’m currently focused on:** Leveling up my **Angular skills** by keeping up with the latest version (**Angular 20**).  
 * **🌱 I’m always learning:** New architectural patterns and best practices in web development.
 * **💬 Ask me about:** Front-end challenges, project structuring, or quality assurance strategies.
 ---
