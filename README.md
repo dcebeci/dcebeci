@@ -10,7 +10,7 @@ I enjoy building **scalable, robust, and user-friendly web applications** and I�
 - ---
 
 ### Currently:
-* **🔭 I’m currently focused on:I’m currently focused on building a full-stack **E-Commerce Starter Kit** with **Angular ** and **Spring Boot**, integrated with **Stripe**.  
+* **🔭 I’m currently focused on: I’m currently focused on building a full-stack **E-Commerce Starter Kit** with **Angular ** and **Spring Boot**, integrated with **Stripe**.  
 * **🌱 I’m always learning:** Modern architectural patterns and best practices in **Front-end Development**.  
 * **💬 Ask me about:** Front-end challenges, scalable project structuring, or quality assurance strategies.  
 
