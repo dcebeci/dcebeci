@@ -12,12 +12,11 @@ Frontend Developer with nearly 3 years of experience building production-ready U
 
 ### 🔭 Currently
 
-* Building **Brew Point** — a café management dashboard (React, TypeScript, TanStack Query, Zustand, Spring Boot) to demonstrate React proficiency alongside my Angular experience
+* Building **Brew Point** a café management dashboard (React, TypeScript, TanStack Query, Zustand, Spring Boot) to demonstrate React proficiency alongside my Angular experience
 * Learning **Playwright** for end-to-end testing
 * Open to Frontend / Full-Stack Developer opportunities
 
 ---
-
 ### 💼 Featured Projects
 
 **[Full-Stack E-Commerce Application](https://ecommerce.dcebeci.dev)** — `Angular` `Spring Boot` `PostgreSQL`
@@ -28,6 +27,9 @@ Component-based, responsive, reusable UI architecture.
 
 **Brew Point** *(in progress)* — `React` `TypeScript` `TanStack Query` `Zustand` `Spring Boot`
 Café management dashboard with sales analytics, order and inventory management.
+
+**SaaS Admin Dashboard** *(in progress)* — `React` `TypeScript` `TanStack Query` `Recharts`
+Analytics-focused admin panel with data visualization and reporting.
 
 ---
 
