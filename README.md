@@ -28,9 +28,6 @@ Component-based, responsive, reusable UI architecture.
 **Brew Point** *(in progress)* — `React` `TypeScript` `TanStack Query` `Zustand` `Spring Boot`
 Café management dashboard with sales analytics, order and inventory management.
 
-**SaaS Admin Dashboard** *(in progress)* — `React` `TypeScript` `TanStack Query` `Recharts`
-Analytics-focused admin panel with data visualization and reporting.
-
 ---
 
 ### 💻 Tech Stack
