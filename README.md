@@ -25,9 +25,6 @@ JWT-based auth, role-based admin panel, dynamically manageable homepage, mega me
 **[Modern Responsive Landing Page](https://dcebeci.dev/projects/landing-page-project/)** — `React` `TypeScript` `Tailwind CSS`
 Component-based, responsive, reusable UI architecture.
 
-**Brew Point** *(in progress)* — `React` `TypeScript` `TanStack Query` `Zustand` `Spring Boot`
-Café management dashboard with sales analytics, order and inventory management.
-
 ---
 
 ### 💻 Tech Stack
