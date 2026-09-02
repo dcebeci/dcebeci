@@ -12,7 +12,6 @@ Frontend Developer with nearly 3 years of experience building production-ready U
 
 ### 🔭 Currently
 
-* Building **Brew Point** a café management dashboard (React, TypeScript, TanStack Query, Zustand, Spring Boot) to demonstrate React proficiency alongside my Angular experience
 * Learning **Playwright** for end-to-end testing
 * Open to Frontend / Full-Stack Developer opportunities
 
