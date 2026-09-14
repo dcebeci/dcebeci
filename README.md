@@ -2,7 +2,7 @@
 
 **Front-End Developer | Angular & React**
 
-Frontend Developer with nearly 3 years of experience building production-ready UI for a SaaS platform, primarily with **Angular** and **TypeScript**. Skilled in scalable component architecture, legacy code refactoring, and REST API integration. Alongside my professional Angular background, I build full-stack side projects with **React** and **Spring Boot**.
+Frontend Developer with 3 years of experience building production-ready UI for a SaaS platform, primarily with **Angular** and **TypeScript**. Skilled in scalable component architecture, legacy code refactoring, and REST API integration. Alongside my professional Angular background, I build full-stack side projects with **React** and **Spring Boot**.
 
 - 📍 Istanbul, Türkiye
 - 📫 cebecidogukan@gmail.com
