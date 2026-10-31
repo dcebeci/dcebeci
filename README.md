@@ -2,7 +2,7 @@
 
 **Software Developer | Angular · React · TypeScript**
 
-Software developer with nearly three years of professional frontend experience building a SaaS platform with Angular and TypeScript. My work has included reusable UI components, legacy code refactoring, REST API integration, and an Angular 12-to-17 migration.
+Software developer with nearly three years of professional frontend experience building a SaaS platform with Angular and TypeScript. My work has focused on reusable UI components, legacy code refactoring, and REST API integration.
 
 Beyond my professional frontend experience, I have built full-stack applications with React, ASP.NET Core, and Spring Boot, including a customer ledger application deployed for real-world use.
 
