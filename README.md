@@ -1,46 +1,44 @@
-### Hi there 👋, I'm Doğukan Cebeci
+# Hi, I'm Doğukan 👋
 
-**Front-End Developer | Angular & React**
+**Software Developer | Angular · React · TypeScript**
 
-Frontend Developer with 3 years of experience building production-ready UI for a SaaS platform, primarily with **Angular** and **TypeScript**. Skilled in scalable component architecture, legacy code refactoring, and REST API integration. Alongside my professional Angular background, I build full-stack side projects with **React** and **Spring Boot**.
+Software developer with nearly three years of professional frontend experience building a SaaS platform with Angular and TypeScript. My work has included reusable UI components, legacy code refactoring, REST API integration, and an Angular 12-to-17 migration.
 
-- 📍 Istanbul, Türkiye
-- 📫 cebecidogukan@gmail.com
-- 🌐 [dcebeci.dev](https://dcebeci.dev)
+Beyond my professional frontend experience, I have built full-stack applications with React, ASP.NET Core, and Spring Boot, including a customer ledger application deployed for real-world use.
 
----
+📍 Istanbul, Türkiye  
+🌐 [Portfolio](https://dcebeci.dev) · [LinkedIn](https://www.linkedin.com/in/dcebeci08/)  
+📫 cebecidogukan@gmail.com
 
-### 🔭 Currently
+## Selected Projects
 
-* Learning **Playwright** for end-to-end testing
-* Open to Frontend / Full-Stack Developer opportunities
+### [Customer Ledger](https://customer-ledger.dcebeci.dev)
+**React · TypeScript · ASP.NET Core · Entity Framework Core · SQL Server**
 
----
-### 💼 Featured Projects
+A web application built for a client's day-to-day account management. Supports debt and payment tracking, installments, due dates, printable account statements, and Excel exports.
 
-**[Full-Stack E-Commerce Application](https://ecommerce.dcebeci.dev)** — `Angular` `Spring Boot` `PostgreSQL`
-JWT-based auth, role-based admin panel, dynamically manageable homepage, mega menu structure, relational DB design.
+Developed the frontend and backend, implemented authentication, and deployed the application on IIS.
 
-**[Modern Responsive Landing Page](https://dcebeci.dev/projects/landing-page-project/)** — `React` `TypeScript` `Tailwind CSS`
-Component-based, responsive, reusable UI architecture.
+### [E-Commerce Application](https://ecommerce.dcebeci.dev)
+**Angular · TypeScript · Spring Boot · PostgreSQL**
 
----
+A full-stack e-commerce application with a customer-facing storefront, shopping cart, order flows, and an administration panel.
 
-### 💻 Tech Stack
+Includes product, category, inventory, and content management, configurable homepage sections and navigation, and role-based access. Payment and email integrations are not included.
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### [Brew Point](https://github.com/dcebeci/brew-point)
+**React · TypeScript · Tailwind CSS · Zustand · TanStack Query**
 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+A responsive management interface for orders, menu items, and sales reporting. Includes filtering, pagination, form validation, charts, and Turkish/English language support.
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-%23131415.svg?style=for-the-badge&logo=railway&logoColor=white)
+## Technologies
+
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS, SCSS, Tailwind CSS, Bootstrap
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, Java, Spring Boot
+- **Databases:** PostgreSQL, SQL Server, SQLite
+- **Tools:** Git, GitHub, Postman
+
+## Current Focus
+
+- Learning Playwright for end-to-end testing
+- Open to frontend and full-stack developer opportunities
