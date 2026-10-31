@@ -4,7 +4,7 @@
 
 Software developer with nearly three years of professional frontend experience building a SaaS platform with Angular and TypeScript. My work has focused on reusable UI components, legacy code refactoring, and REST API integration.
 
-Beyond my professional frontend experience, I have built full-stack applications with React, ASP.NET Core, and Spring Boot, including a customer ledger application deployed for real-world use.
+Alongside my professional frontend background, I have experience in full-stack application development using React, ASP.NET Core and Spring Boot.
 
 📍 Istanbul, Türkiye  
 🌐 [Portfolio](https://dcebeci.dev) · [LinkedIn](https://www.linkedin.com/in/dcebeci08/)  
